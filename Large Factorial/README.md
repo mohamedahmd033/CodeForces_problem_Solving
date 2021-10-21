@@ -1,6 +1,6 @@
 Problem: making a function to take an int number and return its factorial which is very large to be fitted in an int or long long dataType.
 
-there is two functions to solve this problem:
+There are two functions to solve this problem:
 
 1- largeFactorial: The function take the magnitude of an int number and return vector contains the number digits which is the digit in index 0 is the least digit (ones place) and the digit in index 1 is tens place.. etc
 
